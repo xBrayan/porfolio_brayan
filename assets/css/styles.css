@@ -531,7 +531,15 @@ img{
 }
 
 .skills__zk__framework{
-    width: 67%;
+    width: 75%;
+}
+
+.skills__angular{
+    width: 25%;
+}
+
+.skills__vue{
+    width: 60%;
 }
 
 .skills__visual__basic{
